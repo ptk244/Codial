@@ -5,17 +5,7 @@
 
 ---
 
-## 📸 Screenshots
-<p align="center">
-  <p><strong>Home Page</strong></p>
-  <img width="100%" height="110%" src="https://user-images.githubusercontent.com/31281299/100520660-e4635c00-31c4-11eb-8e48-b5128d361d08.jpg" alt="Home Page Screenshot">
 
-  <p><strong>Profile Page</strong></p>
-  <img width="100%" height="110%" src="https://user-images.githubusercontent.com/31281299/100520666-eb8a6a00-31c4-11eb-8676-265b84b23e3b.jpg" alt="Profile Page Screenshot">
-
-  <p><strong>Sign-In Page</strong></p>
-  <img width="100%" height="110%" src="https://user-images.githubusercontent.com/31281299/100520673-f7762c00-31c4-11eb-8e83-41b27b38a093.jpg" alt="Sign-In Page Screenshot">
-</p>
 
 ---
 
